@@ -27,12 +27,14 @@ To run this project, one must have either of the following;
         ◦ Run "npm install react-router-dom@6.4.3" to install a compatible version of react-router-dom.
         ◦ Run "npm start" command in the terminal to get the React App running.
         
-Future Updates
+Future Updates.
+
     1.  Dashboard section to showcase future implementations.
+    
     2.  Hosting back end on vercel or heroku.   
     
     
-Copyright and License (MIT)
+Copyright and License (MIT).
 
 Copyright (c) 2022 Faith Gacheri and others...
 
@@ -41,7 +43,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT-ABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Contact
+Contact.
 
     1. Faith Gacheri – https://github.com/FaithGacheri.
     
@@ -53,9 +55,9 @@ Contact
     
     5. Ian Gacheru - https://github.com/GacheruIan
     
-Live Netlify Page Link
+Live Netlify Page Link.
 #########################################
-live goes here
+live goes here.....
 ########################################
 
 Hotel-Plus by Faith Gacheri, Dennis Ouma, Ian Gacheru, Emmanuel Kimweli, and Joseph Mwinzi.

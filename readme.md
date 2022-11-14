@@ -1,8 +1,10 @@
-<b>Project Name</b>
+## About The Project
+
+# Project Name
 
 HOTEL-PLUS
 
-<b>Authors:</b>
+## Authors:
 
     1. Faith Gacheri – Scrum Master.
     2. Dennis Ouma – Front Developer & Assistant Srum Master.
@@ -10,14 +12,14 @@ HOTEL-PLUS
     4. Joseph Mwinzi – Front Developer & Figma Designer
     5. Ian Gacheru  – Front Developer & Back Developer
 
-<b>Table of Contents:</b>
+## Table of Contents:
 
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [contact](#contact)
 
-<b>General Information.</b>
+## General Information:
 
 HOTEL~PLUS:- Hotel plus is a web based project that we developed to facilatate the easy process of searching and booking a suitable hotel for your choice. The backend developed using ruby and sinatra provides us with the storage capility for user and hotels together with the available number of rooms.
 With the built-in ability to login, update and delete, you'll never forget or loose your friends or professional contact number! since you can now access them from any device with an internet connection.
@@ -28,7 +30,7 @@ With the built-in ability to login, update and delete, you'll never forget or lo
 <b>Step 3:</b>
 <b>Step 4:</b>
 
-<b>Technologies/Features.</b>
+## Technologies/Features
 
     1. React JS - Is used to build the reactivity of the page and functionality.
     2. CSS - Is used to style the pages.
@@ -36,7 +38,7 @@ With the built-in ability to login, update and delete, you'll never forget or lo
     4. Matrial-UI- Icons - the icons showed on the app are imported from material ui website.
     5. Figma-UI design.
     
-<b>Program Setup.</b>
+## Program Setup
 
 To run this project, one must have either of the following;
 
@@ -51,16 +53,16 @@ To run this project, one must have either of the following;
         ◦ Run "npm start" command in the terminal to get the React App running.
 
         
-<b>Requirements</b>
+## Requirements
 
-  ~ a computer, Ipad, tablet or phone - An access to internet connection
+  A computer, Ipad, tablet or phone - An access to internet connection
     
     
-<b>Copyright and License (MIT).</b>
+## Copyright and License (MIT).
 
-[Lincense](Lincense)
+[MIT](LICENCE)
 
-<b>Contact.</b>
+## Contact.
 
     1. Faith Gacheri – https://github.com/FaithGacheri.
     
@@ -72,7 +74,7 @@ To run this project, one must have either of the following;
     
     5. Ian Gacheru - https://github.com/GacheruIan.
     
-Live Netlify Page Link.
+## Live Netlify Page Link.
 
 .......
 

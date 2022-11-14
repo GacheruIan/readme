@@ -24,11 +24,15 @@ HOTEL-PLUS
 HOTEL~PLUS:- Hotel plus is a web based project that we developed to facilatate the easy process of searching and booking a suitable hotel for your choice. The backend developed using ruby and sinatra provides us with the storage capility for user and hotels together with the available number of rooms.
 With the built-in ability to login, update and delete, you'll never forget or loose your friends or professional contact number! since you can now access them from any device with an internet connection.
 
-<b>How to Use the Website </b>
-<b>Step 1:</b>
-<b>Step 2:</b>
-<b>Step 3:</b>
-<b>Step 4:</b>
+## How to Use the Website 
+### step 1: To get to the page where you register an account, use the navigation in the page's upper right corner. When prompted, enter your credentials as needed and press Enter or click register button.
+<img src="./backendimages/sample.webp" width="900px"/>
+
+### step 2: If you already have an account, clicking the sign in button on the navbar will take you to a screen where you must enter both your username and password to access it. according to the picture below
+
+
+
+
 
 ## Technologies/Features
 

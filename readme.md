@@ -1,8 +1,8 @@
-<b>Project Name</b>
+<b><u>Project Name</u></b>
 
 HOTEL-PLUS
 
-Authors:
+<b>Authors:</b>
 
     1. Faith Gacheri – Scrum Master.
     2. Dennis Ouma – Front Developer & Assistant Srum Master.
@@ -10,19 +10,19 @@ Authors:
     4. Joseph Mwinzi – Front Developer & Figma Designer
     5. Ian Gacheru  – Front Developer & Back Developer
 
-Table of Contents:
+<b>Table of Contents:</b>
 
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [contact](#contact)
 
-General Information.
+<b>General Information.</b>
 
 HOTEL~PLUS:- Hotel plus is a web based project that we developed to facilatate the easy process of searching and booking a suitable hotel for your choice. The backend developed using ruby and sinatra provides us with the storage capility for user and hotels together with the available number of rooms.
 With the built-in ability to login, update and delete, you'll never forget or loose your friends or professional contact number! since you can now access them from any device with an internet connection.
 
-Technologies/Features.
+<b>Technologies/Features.</b>
 
     1. React JS - Is used to build the reactivity of the page and functionality.
     2. CSS - Is used to style the pages.
@@ -30,7 +30,7 @@ Technologies/Features.
     4. Matrial-UI- Icons - the icons showed on the app are imported from material ui website.
     5. Figma-UI design.
     
-Program Setup.
+<b>Program Setup.</b>
 
 To run this project, one must have either of the following;
 
@@ -44,14 +44,14 @@ To run this project, one must have either of the following;
         
         ◦ Run "npm start" command in the terminal to get the React App running.
         
-Future Updates.
+<b>Future Updates.</b>
 
-    1.  Dashboard section to showcase future        implementations.
+    1.  Dashboard section to showcase future implementations.
     
     2.  Hosting back end on vercel or heroku.   
     
     
-Copyright and License (MIT).
+<b>Copyright and License (MIT).</b>
 
 Copyright (c) 2022 Faith Gacheri and others...
 
@@ -63,7 +63,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT-ABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Contact.
+<b>Contact.</b>
 
     1. Faith Gacheri – https://github.com/FaithGacheri.
     

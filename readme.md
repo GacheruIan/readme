@@ -53,9 +53,9 @@ To run this project, one must have either of the following;
     
 <b>Copyright and License (MIT).</b>
 
-[Lincense](/Lincense)
+[Lincense](Lincense)
 
-Copyright (c) 2022 Faith Gacheri and others...
+
 
 
 <b>Contact.</b>
@@ -71,10 +71,10 @@ Copyright (c) 2022 Faith Gacheri and others...
     5. Ian Gacheru - https://github.com/GacheruIan.
     
 Live Netlify Page Link.
-#########################################
+
 live goes here.....
 
 
-Hotel-Plus by Faith Gacheri, Dennis Ouma, Ian Gacheru, Emmanuel Kimweli, and Joseph Mwinzi.
+Copyright (c) 2022 Faith Gacheri and others...
 
 

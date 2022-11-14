@@ -22,11 +22,17 @@ HOTEL-PLUS
 HOTEL~PLUS:- Hotel plus is a web based project that we developed to facilatate the easy process of searching and booking a suitable hotel for your choice. The backend developed using ruby and sinatra provides us with the storage capility for user and hotels together with the available number of rooms.
 With the built-in ability to login, update and delete, you'll never forget or loose your friends or professional contact number! since you can now access them from any device with an internet connection.
 
+<b>How to Use the Website </b>
+<b>Step 1:</b>
+<b>Step 2:</b>
+<b>Step 3:</b>
+<b>Step 4:</b>
+
 <b>Technologies/Features.</b>
 
     1. React JS - Is used to build the reactivity of the page and functionality.
     2. CSS - Is used to style the pages.
-    3. Ruby-Used Sinatra and active record for db setup
+    3. Ruby-Used Sinatra and active record for db setup.
     4. Matrial-UI- Icons - the icons showed on the app are imported from material ui website.
     5. Figma-UI design.
     
@@ -43,20 +49,16 @@ To run this project, one must have either of the following;
         ◦ Run "npm install react-router-dom@6.4.3" to install a compatible version of react-router-dom.
         
         ◦ Run "npm start" command in the terminal to get the React App running.
-        
-<b>Future Updates.</b>
 
-    1.  Dashboard section to showcase future implementations.
-    
-    2.  Hosting back end on vercel or heroku.   
+        
+<b>Requirements</b>
+
+  ~ a computer, Ipad, tablet or phone - An access to internet connection
     
     
 <b>Copyright and License (MIT).</b>
 
 [Lincense](Lincense)
-
-
-
 
 <b>Contact.</b>
 
@@ -72,8 +74,7 @@ To run this project, one must have either of the following;
     
 Live Netlify Page Link.
 
-live goes here.....
-
+.......
 
 Copyright (c) 2022 Faith Gacheri and others...
 

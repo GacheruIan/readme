@@ -52,7 +52,7 @@ To run this project, one must have either of the following;
     
     
 <b>Copyright and License (MIT).</b>
-License
+[Lincense](/Lincense)
 
 Copyright (c) 2022 Faith Gacheri and others...
 

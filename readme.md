@@ -1,3 +1,5 @@
+<b>Project Name</b>
+
 HOTEL-PLUS
 
 Authors:
@@ -13,7 +15,7 @@ Table of Contents:
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [contac](#contact)
+- [contact](#contact)
 
 General Information.
 

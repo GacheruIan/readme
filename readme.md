@@ -1,3 +1,5 @@
+# Portfolio
+
 ## About The Project
 
 # Project Name
@@ -14,7 +16,7 @@ HOTEL-PLUS
 
 ## Table of Contents:
 
-+ [General info](#general-info)
++ [General Information](#general-info)
 + [Technologies](#technologies)
 + [Setup](#setup)
 + [Contact](#contact)
@@ -37,7 +39,7 @@ With the built-in ability to login, update and delete, you'll never forget or lo
 
 
 
-## Technologies/Features
+## Technologies
 
     1. React JS - Is used to build the reactivity of the page and functionality.
     2. CSS - Is used to style the pages.
@@ -45,7 +47,7 @@ With the built-in ability to login, update and delete, you'll never forget or lo
     4. Matrial-UI- Icons - the icons showed on the app are imported from material ui website.
     5. Figma-UI design.
     
-## Program Setup
+## Setup
 
 To run this project, one must have either of the following;
 
@@ -88,3 +90,4 @@ To run this project, one must have either of the following;
 Copyright (c) 2022 Faith Gacheri and others...
 
 
+[Go Back to the top](#portfolio)

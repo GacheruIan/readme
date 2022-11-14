@@ -64,7 +64,7 @@ To run this project, one must have either of the following;
         
 ## Requirements
 
-  A computer, Ipad, tablet or phone - An access to internet connection
+  A computer, Ipad, tablet or phone - An access to internet connection.
     
     
 ## Copyright and License (MIT).

@@ -29,11 +29,11 @@ With the built-in ability to login, update and delete, you'll never forget or lo
 
 ## How to Use the Website 
 ### step 1: To get to the page where you register an account, use the navigation in the page's upper right corner. When prompted, enter your credentials as needed and press Enter or click register button.
-<img src="" width="900px"/>
+<img src="backendimages/test.png" width="900px"/>
 
 ### step 2: If you already have an account, clicking the sign in button on the navbar will take you to a screen where you must enter both your username and password to access it. according to the picture below
 
-<img src="" width="900px"/>
+<img src="backendimages/test2.jpeg" width="900px"/>
 
 
 
